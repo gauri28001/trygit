@@ -4,7 +4,7 @@ public class Sum{
     {
         int a = 20 , b = 30 ;
 
-        
-        System.out.printlin(a+b);
+
+        System.out.printlin("the sum is"+ a+b);
     }
 }
